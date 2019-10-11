@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JP.Mojang", "JP.Mojang\JP.Mojang.csproj", "{104F37D6-B5B4-4971-B00E-18DB771B004E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{B8E776C3-EF9E-4140-99D4-210DA914FC9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JP.Mojang", "JP.Mojang\JP.Mojang.csproj", "{F44B75CD-EE3D-4AF8-8976-4EF6D1F49A67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{104F37D6-B5B4-4971-B00E-18DB771B004E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{104F37D6-B5B4-4971-B00E-18DB771B004E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{104F37D6-B5B4-4971-B00E-18DB771B004E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{104F37D6-B5B4-4971-B00E-18DB771B004E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B8E776C3-EF9E-4140-99D4-210DA914FC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B8E776C3-EF9E-4140-99D4-210DA914FC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8E776C3-EF9E-4140-99D4-210DA914FC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8E776C3-EF9E-4140-99D4-210DA914FC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44B75CD-EE3D-4AF8-8976-4EF6D1F49A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44B75CD-EE3D-4AF8-8976-4EF6D1F49A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44B75CD-EE3D-4AF8-8976-4EF6D1F49A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44B75CD-EE3D-4AF8-8976-4EF6D1F49A67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
